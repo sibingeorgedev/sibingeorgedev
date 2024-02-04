@@ -10,15 +10,6 @@ Welcome to my GitHub profile! I'm passionate about crafting robust web solutions
 - Frameworks: Angular 2+, .Net
 - Databases: MySQL, Sql Server
 
-## 🌐 Projects
-
-### [CareStack](link to project)
-- A web-based dental practice management system developed during my role as a Full-Stack Software Development Engineer at CareStack.
-- Technologies Used: HTML5, CSS, AngularJS, Angular 6, ASP.Net, C#, TypeScript.
-
-### [CareStack Referral Portal](link to project)
-- Contributed to the front-end development of a .NET Core app facilitating communication between practices outside Carestack.
-- Technologies Used: HTML5, CSS, Angular 14, .Net core, C, TypeScript, SQL Kata.
 
 ## 📚 Education
 - **Post Graduation Diploma in Web Development**
