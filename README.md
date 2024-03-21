@@ -1,6 +1,6 @@
 # Hi there, I'm Sibin George 👋
 
-🚀 Full Stack Developer | 💻 Web Design and Development Enthusiast
+Full Stack Developer | Web Design and Development Enthusiast
 
 Welcome to my GitHub profile! I'm passionate about crafting robust web solutions and contributing to innovative projects. Here's a glimpse of what you'll find in my repositories:
 
