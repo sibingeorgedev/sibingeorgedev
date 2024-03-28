@@ -5,10 +5,10 @@ Full Stack Developer | Web Design and Development Enthusiast
 Welcome to my GitHub profile! I'm passionate about crafting robust web solutions and contributing to innovative projects. Here's a glimpse of what you'll find in my repositories:
 
 ## 🔧 Technologies & Tools
-- Languages: Typescript, Javascript, C#, HTML5, CSS3
+- Languages and Web Technologies: Typescript, Javascript, C#, HTML5, CSS3, Node.js
 - Web Dev Tools: Git, Github, Gitlab, Visual Studio, Visual Studio Code, Postman, SQL Profiler, Jira, SSMS, Figma
-- Frameworks: Angular 2+, .Net
-- Databases: MySQL, Sql Server
+- Frameworks: Angular 2+, .Net, Express.js
+- Databases: MySQL, SQL Server
 
 
 ## 📚 Education
